@@ -20,7 +20,7 @@
  */
 
 export default {
-  key: '',
+  key: 'd',
   geoLocation: {
     baseUrl: 'https://www.googleapis.com/geolocation/v1/geolocate',
   },
